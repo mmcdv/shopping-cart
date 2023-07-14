@@ -1,5 +1,7 @@
 React Shopping Cart
 
+Demo: https://shopping-cart-seven-psi.vercel.app/
+
 Features included: 
   - User can see available products and their ratings
   - User can click to see each individual product page
