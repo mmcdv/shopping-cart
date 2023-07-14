@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
-import Cancel from './pages/Cancel';
 import Store from './pages/Store';
 import Success from './pages/Success';
 import Product from './pages/Product';
