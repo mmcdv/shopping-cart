@@ -12,5 +12,3 @@ Built With:
   - Material UI
   - Vite.js
 
-To run project:
-  npm start
